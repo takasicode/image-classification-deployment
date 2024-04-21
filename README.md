@@ -1,5 +1,5 @@
 ## Image Classification Model Deployment
-Proyek Akhir : Image Classification Model Deployment pada kelas Belajar Machine Learning untuk Pemula.
+Proyek Akhir : Image Classification Model Deployment pada kelas Belajar Pengembangan Machine Learning.
 
 ## Kriteria
 - Dataset yang akan dipakai bebas, namun minimal memiliki 1000 buah gambar.
